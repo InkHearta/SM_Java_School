@@ -4,7 +4,8 @@ import java.util.UUID;
 
 import static java.util.UUID.randomUUID;
 
-public class Car { static int numberOfWheels = 4;
+public class Car {
+    static int numberOfWheels = 4;
     UUID vin = randomUUID();
     int doors = 4;
     String bodyType = "сидан";
