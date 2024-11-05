@@ -1,3 +1,5 @@
+package Java1;
+
 import java.util.Arrays;
 
 public class DZ2_2 {

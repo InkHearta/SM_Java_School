@@ -1,3 +1,5 @@
+package Java1;
+
 public class DZ4 {
 
 

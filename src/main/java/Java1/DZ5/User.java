@@ -1,4 +1,4 @@
-package DZ5;
+package Java1.DZ5;
 
 public class User {
     static int max; // поле для вычисления верхнего предела id всех пользователей

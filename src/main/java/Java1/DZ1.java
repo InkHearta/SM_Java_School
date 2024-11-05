@@ -1,3 +1,5 @@
+package Java1;
+
 public class DZ1 {
     public static void main(String[] args) {
        /* - задает две целочисленные переменные (длина и ширина прямоугольника) - с какими вам угодно значениями

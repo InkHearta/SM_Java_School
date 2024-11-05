@@ -1,4 +1,4 @@
-package term_paper;
+package Java1.term_paper;
 import com.github.javafaker.Faker;
 
 import java.util.ArrayList;

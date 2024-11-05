@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8c96037-b75c-4910-9ffc-126972e0bb4d" name="Changes" comment="Курсовая">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java2/lesson1/Calc1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java2/lesson1/PinCode1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ5/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ5/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ5/TestCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ5/TestCars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ5/TestUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ5/TestUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ5/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ5/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TypeAndArithDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/TypeAndArithDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/CityStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/CityStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/RandomUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/RandomUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Ware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Ware.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;InkHearta&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/InkHearta/SM_Java_School.git&quot;,
+    &quot;accountId&quot;: &quot;9fd46d83-ce80-43ac-b70a-bdb50dc4ec15&quot;
+  }
+}</component>
+  <component name="GradleModuleStateConfig" initialized="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jbbm5b4KrgAOD8PJf42G2pignD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calc1_1.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PinCode1_2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/BMoshnin/IdeaProjects/SMJavaSchool01/src/main/java/Java1",
+    "last_opened_file_path": "C:/Users/BMoshnin/IdeaProjects/SMJavaSchool01/src/main/java/Java1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Java1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PinCode1_2">
+    <configuration name="Calc1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java2.lesson1.Calc1_1" />
+      <module name="SMJavaSchool01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java2.lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="term_paper.Main" />
+      <module name="SMJavaSchool01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="term_paper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PinCode1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java2.lesson1.PinCode1_2" />
+      <module name="SMJavaSchool01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java2.lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ5.TestCars" />
+      <module name="SMJavaSchool01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ5.TestUser" />
+      <module name="SMJavaSchool01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PinCode1_2" />
+        <item itemvalue="Application.Calc1_1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestUser" />
+        <item itemvalue="Application.TestCars" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8c96037-b75c-4910-9ffc-126972e0bb4d" name="Changes" comment="" />
+      <created>1721658882021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721658882021</updated>
+      <workItem from="1721658883119" duration="10667000" />
+      <workItem from="1721735673387" duration="4862000" />
+      <workItem from="1722240267271" duration="14013000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1722336051369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722336051369</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HomeWork 5.3">
+      <option name="closed" value="true" />
+      <created>1722347208574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722347208574</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Курсовая">
+      <option name="closed" value="true" />
+      <created>1725481547216</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725481547216</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Курсовая">
+      <option name="closed" value="true" />
+      <created>1725481753425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725481753425</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="HomeWork 5.3" />
+    <MESSAGE value="Курсовая" />
+    <option name="LAST_COMMIT_MESSAGE" value="Курсовая" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
