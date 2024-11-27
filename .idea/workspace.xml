@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8c96037-b75c-4910-9ffc-126972e0bb4d" name="Changes" comment="Курсовая">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java2/lesson1/Calc1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java2/lesson1/PinCode1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DZ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DZ2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DZ2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ2_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DZ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DZ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DZ5/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ5/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DZ5/TestCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ5/TestCars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DZ5/TestUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ5/TestUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DZ5/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/DZ5/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TypeAndArithDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/TypeAndArithDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/CityStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/CityStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Orange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/RandomUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/RandomUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/term_paper/Ware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1/term_paper/Ware.java" afterDir="false" />
+    <list default="true" id="c8c96037-b75c-4910-9ffc-126972e0bb4d" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/BMoshnin/IdeaProjects/SMJavaSchool01/src/main/java/Java1",
     "last_opened_file_path": "C:/Users/BMoshnin/IdeaProjects/SMJavaSchool01/src/main/java/Java1",
@@ -221,17 +196,37 @@
       <option name="project" value="LOCAL" />
       <updated>1725481753425</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1732697339286</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732697339286</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="HomeWork 5.3" />
     <MESSAGE value="Курсовая" />
-    <option name="LAST_COMMIT_MESSAGE" value="Курсовая" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
